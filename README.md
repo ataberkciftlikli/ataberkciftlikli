@@ -2,15 +2,11 @@
 
 ### Hi there 👋
 
-![Ataberk's github stats](https://github-readme-stats.vercel.app/api?username=ataberkciftlikli&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ataberkciftlikli&count_private=true&show_icons=true)
+
+![GitHub Streak]( https://github-readme-streak-stats.herokuapp.com?user=ataberkciftlikli&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ataberkciftlikli)
-
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ataberkciftlikli&count_private=true&show_icons=true&theme=gotham&hide_rank=true)
-
-![GitHub Streak]( https://github-readme-streak-stats.herokuapp.com?user=ataberkciftlikli&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450)
 
 ## 💻 Technologies
 
