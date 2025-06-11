@@ -14,11 +14,13 @@
 
 <!-- Langs -->
 <img src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-056676?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/-Go-056676?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-056676?style=for-the-badge&logo=java&labelColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Go-056676?style=for-the-badge&logo=go&labelColor=white" />
+
 
 
 <!-- Techs -->
@@ -39,6 +41,8 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-9BCE7A?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/-NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Transformers-9BCE7A?style=for-the-badge&logo=transformers&logoColor=white" />
@@ -69,12 +73,13 @@
 
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-056676?style=flat&logo=Python&labelColor=000)
-![C](https://img.shields.io/badge/-C-056676?style=flat&logo=c&labelColor=000)
-![C++](https://img.shields.io/badge/-C++-056676?style=flat&logo=cplusplus&labelColor=000)
-![C#](https://img.shields.io/badge/-C%23-056676?style=flat&logo=csharp&labelColor=000)
 ![Java](https://img.shields.io/badge/-Java-056676?style=flat&logo=java&labelColor=000)
-![JavaScript](https://img.shields.io/badge/-JavaScript-056676?style=flat&logo=javascript&labelColor=000)
 ![Go](https://img.shields.io/badge/-Go-056676?style=flat&logo=go&labelColor=000)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&labelColor=000)
+![C#](https://img.shields.io/badge/-C%23-056676?style=flat&logo=csharp&labelColor=000)
+![C++](https://img.shields.io/badge/-C++-056676?style=flat&logo=cplusplus&labelColor=000)
+![C](https://img.shields.io/badge/-C-056676?style=flat&logo=c&labelColor=000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-056676?style=flat&logo=javascript&labelColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-056676?style=flat&logo=node.js&labelColor=000)
 ![PHP](https://img.shields.io/badge/-PHP-056676?style=flat&logo=php&labelColor=000)
 ![Assembly](https://img.shields.io/badge/-Assembly-056676?style=flat&logo=gnu&labelColor=000)
@@ -89,6 +94,9 @@
 ![Django](https://img.shields.io/badge/-Django-056676?style=flat&logo=django&labelColor=000)
 ![Flask](https://img.shields.io/badge/-Flask-056676?style=flat&logo=flask&labelColor=000)
 ![Spring](https://img.shields.io/badge/-Spring-056676?style=flat&logo=spring&labelColor=000)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&labelColor=000)
+![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-000000?style=flat&logo=tauri&labelColor=000)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&labelColor=000)
 ![Flutter](https://img.shields.io/badge/-Flutter-056676?style=flat&logo=flutter&labelColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&labelColor=000)
